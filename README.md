@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emmaobermiller1
+- 👀 Current NYU Tandon MSCS student
+- 🌱 I’m taking AI, Algorithms, and Infor Visualization.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I played D1 Field Hockey in my undergrad.
